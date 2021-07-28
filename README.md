@@ -5,5 +5,6 @@ Technologies:
 - HTML
 - CSS
 - JavaScript
-Demo: 
+Demo: https://akshadgarje.github.io/JetBrains_To-do_list/
+
 📋 Simple to-do list where you can add new tasks, mark them as done, or delete them if they are no longer important.
